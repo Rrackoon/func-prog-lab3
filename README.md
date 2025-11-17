@@ -2,7 +2,7 @@
 
 **Выполнила Козырева Эмилия, ИСУ - 394031.**
 
-[![CI Pipeline](https://github.com/Rrackoon/func-prog-lab3/actions/workflows/ci.yml/badge.svg)](https://github.com/Rrackoon/func-prog-lab3/actions/workflows/ci.yml)
+[![CI](https://github.com/Rrackoon/func-prog-lab3/actions/workflows/main.yml/badge.svg)](https://github.com/Rrackoon/func-prog-lab3/actions/workflows/main.yml)
 
 
 # Требования к разработанному программному обеспечению
